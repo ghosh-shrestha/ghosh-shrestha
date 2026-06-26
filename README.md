@@ -48,6 +48,22 @@ These projects were built to strengthen my understanding of frontend development
 - Digital Clock
 - Stopwatch
 - Calculator
+- temperature convertor
+- 
+## 🏆 Hackathons & Events
+
+### Smart India Hackathon (SIH) 2025
+- Participated as a first-year B.Tech student.
+- Collaborated in a team to work on a real-world problem statement.
+- Gained experience in ideation, teamwork, and rapid prototyping.
+
+### Innovathon – E-Summit
+- Participated in Innovathon conducted during E-Summit.
+- Worked on developing innovative solutions within a limited timeframe.
+- Improved problem-solving and presentation skills.
+- Team-based hardware project built during Innovathon.
+- ESP32 firmware implementation.
+- Source code maintained using Git and GitHub.
 
 
 ---
